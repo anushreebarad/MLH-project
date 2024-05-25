@@ -42,4 +42,3 @@ pip install seaborn
 pip install scikit-learn
 pip install matplotlib
 ```
-Jupyter Notebook Installation Guide  https://jupyter.org/install
